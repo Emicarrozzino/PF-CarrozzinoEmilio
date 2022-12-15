@@ -1,0 +1,21 @@
+.margen-card{
+    margin: 32px;
+}
+
+.borde-radio{
+    border-radius: 24px;
+}
+
+p .card-text{
+    font-family: 'Kanit', sans-serif;
+    font-family: 'Roboto Condensed', sans-serif;
+    color: $color-texto;
+    font-size: large;
+}
+
+.fondo-card{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin: 0;
+    background-color: $color-background;
+}

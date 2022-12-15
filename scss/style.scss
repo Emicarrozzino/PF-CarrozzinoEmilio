@@ -1,0 +1,17 @@
+/*reset*/
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+// archivos secundarios
+
+@import "utilidades/variables";
+@import "html/index";
+@import "html/proyects";
+@import "utilidades/mixin";
+@import "html/resume";
+@import"html/contact";
+
+
